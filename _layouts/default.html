@@ -12,7 +12,7 @@
   {% if site.data.settings.cover__image %}
     <div class="top-cover">
       <div class="cover-image">
-        <img class="lazy" data-src="{{site.data.settings.cover__image}}" alt="{{site.data.settings.title}}">
+        <img class="lazy" data-src="{{site.baseurl}}/{{site.data.settings.cover__image}}" alt="{{site.data.settings.title}}">
       </div>
     </div>
   {% endif %}
@@ -38,6 +38,10 @@
     var itype_text = [{{site.data.settings.mailchimp__settings.mailchimp__text}}];
   </script>
   <script src="{{ site.baseurl }}/js/common.js"></script>
+
+  <script src="https://code.jquery.com/jquery-3.6.4.slim.min.js" integrity="sha256-a2yjHM4jnF9f54xUQakjZGaqYs/V1CYvWpoqZzC2/Bw=" crossorigin="anonymous"></script>
+  <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/velocity/0.0.22/jquery.velocity.min.js?ver=0.0.22' id='velocity-js'></script>
+  <script src="{{site.baseurl}}/js/animate-logo.js"></script>
 </body>
 
 </html>

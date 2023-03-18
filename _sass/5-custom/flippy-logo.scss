@@ -1,0 +1,31 @@
+.sweetas-logo {
+    -webkit-perspective: 250px;
+    perspective: 250px;
+    display: block;
+    font-family: Roboto, Impact;    
+    font-size: 75px;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: -.05em;
+
+    @media only screen and (max-width: $desktop) {
+        font-size: 85px;
+        text-align: center;
+    }
+    
+    @media only screen and (max-width: $tablet) {
+        font-size: 48px;
+        text-align: center;
+    }
+    
+    @media only screen and (max-width: $mobile) {
+        font-size: 32px;
+        text-align: center;
+    }
+  }
+  .sweetas-logo span { display: inline-block; }
+  .m1 { color: $primary-color; }
+  .m2 { color: $secondary-color; }
+
+
