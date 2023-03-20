@@ -104,7 +104,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: bencull # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------

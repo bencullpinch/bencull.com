@@ -34,7 +34,7 @@ layout: default
     <div class="post__info">
       <div class="post__author">
         <a href="{{site.baseurl}}/about/" class="post__author-image">
-          <img class="lazy" data-src="{{site.data.settings.author.avatar}}" alt="{{site.data.settings.author.name}}">
+          <img class="lazy" data-src="{{site.baseurl}}{{site.data.settings.author.avatar}}" alt="{{site.data.settings.author.name}}">
         </a>
         <div class="post__author-info">
           <a href="{{site.baseurl}}/about/" class="post__author-link">{{site.data.settings.author.name}}</a>
@@ -56,6 +56,6 @@ layout: default
 
 {% include related-posts.html %}
 
-{% if site.data.settings.disqus-identifier %}
+{% if site.data.settings.disqus-identifier and page.no-comments == false %}
   {% include disqus-comments.html %} 
 {% endif %}
