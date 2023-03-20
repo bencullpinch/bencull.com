@@ -33,10 +33,9 @@ cover__image: '/images/37.jpg'
 author:
   name: Ben Cull
   title: Hello I’m Ben Cull
-  bio: I'm passionate about software development and the payments industry, and I've managed to combine the two into a startup I co-founded called Pinch. I'm always keen to chat and meet new people and I love a good beer, so feel free to hit me up if you're in Melbourne.
   image: '/images/Ben-2020_1300x1300.jpg'
   avatar: '/images/Ben-2020_1300x1300.jpg'
-  button__text: See my works
+  button__text: See my latest
 
 
 #-------------------------------

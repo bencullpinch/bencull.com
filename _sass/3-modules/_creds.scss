@@ -1,0 +1,13 @@
+.creds .container {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    @media only screen and (max-width: $mobile) {
+        flex-direction:column;
+    }
+
+    img {
+        padding:0 50px;
+    }
+}

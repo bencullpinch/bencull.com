@@ -7,21 +7,25 @@
 
           <div class="section__info">
             <div class="section__head">
-              <h2 class="section__title">{{ site.data.settings.projects__settings.projects__title }}</h2>
-              <a class="section__link" href="{{ '/projects' | relative_url }}">View all <i class="ion ion-md-arrow-forward"></i></a>
+              <h2 class="section__title">Some notable <span class="text-span">projects</span></h2>
+              <!-- <a class="section__link" href="{{ '/projects' | relative_url }}">View all <i class="ion ion-md-arrow-forward"></i></a> -->
             </div>
-            {% if site.data.settings.projects__settings.projects__description %}
-              <p class="section__description">{{ site.data.settings.projects__settings.projects__description }}</p>
-            {% endif %}
+            <p class="section__description">A few things I'm working on or have worked on in the past.</p>
           </div>
 
-          <div class="row">
+          <div class="row">          
             {% for project in site.projects reversed limit:6 %}
             <article class="project col col-4 col-d-6 col-t-12">
               <div class="project__content">
-                <a href="{{site.baseurl}}{{ project.url }}" class="project__image">
-                  <img class="lazy" data-src="{{site.baseurl}}/{{ project.image }}" alt="{{ project.title }}">
-                </a>
+                {% if project.directUrl %}
+                  <a href="{{ project.directUrl }}" class="project__image" target="_blank">
+                    <img class="lazy" data-src="{{site.baseurl}}/{{ project.image }}" alt="{{ project.title }}">
+                  </a>
+                {% else %}
+                  <a href="{{site.baseurl}}{{ project.url }}" class="project__image">
+                    <img class="lazy" data-src="{{site.baseurl}}/{{ project.image }}" alt="{{ project.title }}">
+                  </a>
+                {% endif %}
                 <div class="project__info">
                   <div class="project__info-wrap">
                     <h3 class="project__title">{{ project.title }}</h3>
