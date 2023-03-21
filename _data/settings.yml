@@ -2,6 +2,7 @@
 # Site Settings
 
 title: Ben Cull - Payments Engineer and Microsoft Development Professional
+titlePostfix: " - Ben Cull"
 logo: # You can add own logo. For example '/images/logo.png'.
 description: I'm passionate about software development and the payments industry, and I've managed to combine the two into a startup I co-founded called Pinch.
 
@@ -9,16 +10,10 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
+    - title: 'Videos'
+      url: '/videos/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about'
-        title: 'About'
-      - url: '/elements'
-        title: 'Elements'
 
 # Call to action button
 cta__button__text: Get in touch
@@ -85,9 +80,10 @@ blog__settings:
 # Contact Settings
 
 contact__settings:
-  contact__email: your@email.com # Add your email for contact form
+  contact__email: bjcull@gmail.com # Add your email for contact form
   contact__title: <span class="text-span">Get</span> in touch # Add a title to your form
-  contact__description: Avenco comes with a built-in contact form. # Add a description to your form
+  contact__description: Send me a message and I'll get back to you. # Add a description to your form
+  formspree__url: 'https://formspree.io/f/xrgvapnp'
 
 # NOTE
 # Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -98,7 +94,7 @@ contact__settings:
 mailchimp__settings:
   mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
   mailchimp__text: " 'Get invites to local events,', 'learn about the latest tech.' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
-  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+  mailchimp__identifier: gmail.us21.list-manage.com/subscribe/post?u=6ec8945ea0d6149f18c3bccdb&amp;id=aff6c6489b&amp;f_id=00dca1e1f0 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
   mailchimp__button__text: Subscribe # Add your button text
 
 
@@ -109,7 +105,7 @@ disqus-identifier: bencull # add your shortname for Disqus Comment. For example 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-9813084-29 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
@@ -118,9 +114,6 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-codepen", link: "https://codepen.io"}
-- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/benwholikesbeer"}
+- {icon: "ion-logo-github", link: "https://github.com/bjcull"}
+- {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/bencull"}

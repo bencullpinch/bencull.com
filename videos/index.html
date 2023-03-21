@@ -1,0 +1,35 @@
+---
+layout: default
+title: My tech videos
+description:
+---
+<div class="container">
+  <div class="page-head">
+    <h1 class="page-title">My Tech Videos</h1>
+    <p class="page-description">A collection of tech videos and talks that I've made.</p>
+  </div>
+</div>
+
+<div class="container animate">
+  <div class="row">
+    {% for video in site.videos reversed %}
+      <article class="project col col-4 col-d-6 col-t-12">
+        <div class="project__content">
+          <a href="{{site.baseurl}}{{ video.url }}" class="project__image">
+            <img class="lazy" data-src="{{site.baseurl}}/{{ video.image }}" alt="{{ video.title }}">
+          </a>
+          <div class="project__info">
+            <div class="project__info-wrap">
+              <h4 class="project__title">{{ video.title }}</h4>
+            </div>
+            <div class="project__info-wrap">
+              {% if video.subtitle %}
+                <div class="project__subtitle">{{ video.subtitle }} –</div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>
