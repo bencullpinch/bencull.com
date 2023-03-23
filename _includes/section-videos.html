@@ -12,11 +12,10 @@
             </div>
           </div>
           <div class="row">
-            {% if site.videos.size > 0 %}
-              {% for video in site.videos offset:0 limit:3 %}
-                {% include video-card.html %}
-              {% endfor %}
-            {% endif %}
+            {% assign videos_by_date = site.videos | sort: "date" | reverse %}
+            {% for video in videos_by_date limit:3 %}
+              {% include video-card.html %}
+            {% endfor %}
           </div>
         </div>
       </div>
