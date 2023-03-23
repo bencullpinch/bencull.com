@@ -1,7 +1,7 @@
 ---
 title: 'How to make web applications with AngularJS and ASP.NET MVC | Dev SuperPowers Episode #7 | Ben Cull'
 date: 2014-11-30 12:00:00 +1100
-image: '/images/videos/2014-11-30-how-to-make-web-applications-with-angularjs-and-asp-net-mvc-dev-superpowers-episode-7-ben-cull.jpg'
+image: 'images/videos/2014-11-30-how-to-make-web-applications-with-angularjs-and-asp-net-mvc-dev-superpowers-episode-7-ben-cull.jpg'
 embedUrl: https://www.youtube.com/embed/vwF1mxZH_hE
 ---
 

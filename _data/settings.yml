@@ -19,7 +19,7 @@ menu__settings:
 cta__button__text: Get in touch
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: '/images/37.jpg'
+cover__image: 'images/37.jpg'
 
 
 #-------------------------------
@@ -28,8 +28,8 @@ cover__image: '/images/37.jpg'
 author:
   name: Ben Cull
   title: Hello I’m Ben Cull
-  image: '/images/Ben-2020_1300x1300.jpg'
-  avatar: '/images/Ben-2020_1300x1300.jpg'
+  image: 'images/Ben-2020_1300x1300.jpg'
+  avatar: 'images/Ben-2020_1300x1300.jpg'
   button__text: See my latest
 
 
@@ -48,22 +48,22 @@ testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'tex
 
 testimonial-items:
   - name: "Zaire Baptista"
-    image: "/images/client-1.jpg"
+    image: "images/client-1.jpg"
     designation : "Traveler"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
   - name: "Ann Philips"
-    image: "/images/client-2.jpg"
+    image: "images/client-2.jpg"
     designation : "Designer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
   - name: "Roger Bergson"
-    image: "/images/client-3.jpg"
+    image: "images/client-3.jpg"
     designation : "CEO, Founder"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
   - name: "Julie Arnold"
-    image: "/images/client-4.jpg"
+    image: "images/client-4.jpg"
     designation : "Full stack developer"
     content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 

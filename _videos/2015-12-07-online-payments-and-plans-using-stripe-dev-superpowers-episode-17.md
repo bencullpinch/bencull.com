@@ -1,7 +1,7 @@
 ---
 title: 'Online Payments and Plans using Stripe | Dev SuperPowers Episode 17'
 date: 2015-12-07 12:00:00 +1100
-image: '/images/videos/2015-12-07-online-payments-and-plans-using-stripe-dev-superpowers-episode-17.jpg'
+image: 'images/videos/2015-12-07-online-payments-and-plans-using-stripe-dev-superpowers-episode-17.jpg'
 embedUrl: https://www.youtube.com/embed/Vl3dpHu_tlw
 ---
 

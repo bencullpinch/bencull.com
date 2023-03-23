@@ -1,7 +1,7 @@
 ---
 title: 'Identity Server 4 with Angular 2 and ASP.NET Core | Ben Cull at DDD Brisbane'
 date: 2017-02-08 12:00:00 +1100
-image: '/images/videos/2017-02-08-identity-server-4-with-angular-2-and-asp-net-core-ben-cull-at-ddd-brisbane.jpg'
+image: 'images/videos/2017-02-08-identity-server-4-with-angular-2-and-asp-net-core-ben-cull-at-ddd-brisbane.jpg'
 embedUrl: https://www.youtube.com/embed/5OUQZAvxZuA
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'ASP.NET Identity using vNext | Dev Superpowers Episode 11 | Ben Cull'
 date: 2014-06-25 12:00:00 +1100
-image: '/images/videos/2015-06-14-asp-net-identity-using-vnext-dev-superpowers-episode-11-ben-cull.jpg'
+image: 'images/videos/2015-06-14-asp-net-identity-using-vnext-dev-superpowers-episode-11-ben-cull.jpg'
 embedUrl: https://www.youtube.com/embed/Bp5xTre_-ic
 ---
 

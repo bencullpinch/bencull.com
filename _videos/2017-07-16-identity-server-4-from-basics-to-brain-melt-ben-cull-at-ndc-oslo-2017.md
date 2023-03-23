@@ -1,7 +1,7 @@
 ---
 title: 'Identity Server 4 from Basics to Brain Melt | Ben Cull at NDC Oslo 2017'
 date: 2017-07-16 12:00:00 +1100
-image: '/images/videos/2017-07-16-identity-server-4-from-basics-to-brain-melt-ben-cull-at-ndc-oslo-2017.jpg'
+image: 'images/videos/2017-07-16-identity-server-4-from-basics-to-brain-melt-ben-cull-at-ndc-oslo-2017.jpg'
 embedUrl: https://www.youtube.com/embed/3rtq8M1s95c
 ---
 

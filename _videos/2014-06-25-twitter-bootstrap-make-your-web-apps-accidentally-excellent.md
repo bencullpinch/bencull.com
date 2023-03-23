@@ -1,7 +1,7 @@
 ---
 title: 'Twitter Bootstrap – Make your web apps accidentally excellent'
 date: 2014-06-25 12:00:00 +1100
-image: '/images/videos/2014-06-25-twitter-bootstrap-make-your-web-apps-accidentally-excellent.jpg'
+image: 'images/videos/2014-06-25-twitter-bootstrap-make-your-web-apps-accidentally-excellent.jpg'
 embedUrl: https://www.youtube.com/embed/xKvzr6NDeS8
 ---
 

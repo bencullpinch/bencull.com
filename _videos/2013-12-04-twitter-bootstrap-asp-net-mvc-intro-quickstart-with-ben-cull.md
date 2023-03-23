@@ -1,7 +1,7 @@
 ---
 title: 'Twitter Bootstrap & ASP.NET MVC — Intro / Quickstart with Ben Cull'
 date: 2013-12-04 12:00:00 +1100
-image: '/images/videos/2013-12-04-twitter-bootstrap-asp-net-mvc-intro-quickstart-with-ben-cull.jpg'
+image: 'images/videos/2013-12-04-twitter-bootstrap-asp-net-mvc-intro-quickstart-with-ben-cull.jpg'
 embedUrl: https://www.youtube.com/embed/bIGiUSMBwoo
 ---
 

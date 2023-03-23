@@ -1,7 +1,7 @@
 ---
 title: 'ASP.NET 5 and MVC 6, Where’s my cheese? | Dev Superpowers Episode #15 | Ben Cull'
 date: 2014-06-25 12:00:00 +1100
-image: '/images/videos/2015-10-06-asp-net-5-and-mvc-6-wheres-my-cheese-dev-superpowers-episode-15-ben-cull.jpg'
+image: 'images/videos/2015-10-06-asp-net-5-and-mvc-6-wheres-my-cheese-dev-superpowers-episode-15-ben-cull.jpg'
 embedUrl: https://www.youtube.com/embed/W-Gvd6gs9lU
 ---
 

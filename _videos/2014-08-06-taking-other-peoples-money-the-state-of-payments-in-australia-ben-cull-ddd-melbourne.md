@@ -1,7 +1,7 @@
 ---
 title: 'Taking other people’s money: The state of payments in Australia – Ben Cull | DDD Melbourne'
 date: 2014-08-06 12:00:00 +1100
-image: '/images/videos/taking-other-peoples-money-the-state-of-payments-in-australia-ben-cull-ddd-melbourne.jpg'
+image: 'images/videos/taking-other-peoples-money-the-state-of-payments-in-australia-ben-cull-ddd-melbourne.jpg'
 embedUrl: https://www.youtube.com/embed/U_zi2wto9xo
 ---
 

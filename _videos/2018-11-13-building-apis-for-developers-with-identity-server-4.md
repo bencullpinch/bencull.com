@@ -1,7 +1,7 @@
 ---
 title: 'Building APIs for developers with Identity Server 4'
 date: 2018-11-13 12:00:00 +1100
-image: '/images/videos/2018-11-13-building-apis-for-developers-with-identity-server-4.jpg'
+image: 'images/videos/2018-11-13-building-apis-for-developers-with-identity-server-4.jpg'
 embedUrl: https://www.youtube.com/embed/8IXIFuaHAt8
 ---
 

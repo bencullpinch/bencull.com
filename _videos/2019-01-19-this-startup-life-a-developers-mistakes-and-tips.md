@@ -1,7 +1,7 @@
 ---
 title: 'This Startup Life: A Developer’s Mistakes and Tips'
 date: 2019-01-19 12:00:00 +1100
-image: '/images/videos/2019-01-19-this-startup-life-a-developers-mistakes-and-tips.jpg'
+image: 'images/videos/2019-01-19-this-startup-life-a-developers-mistakes-and-tips.jpg'
 embedUrl: https://www.youtube.com/embed/4jdW4lGiN4c
 ---
 

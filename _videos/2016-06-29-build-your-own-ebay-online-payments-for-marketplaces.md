@@ -1,7 +1,7 @@
 ---
 title: 'Build your own Ebay: Online Payments for Marketplaces'
 date: 2016-06-29 12:00:00 +1100
-image: '/images/how-to-find-and-fix-404-errors-in-wordpress.png'
+image: 'images/how-to-find-and-fix-404-errors-in-wordpress.png'
 embedUrl: https://player.vimeo.com/video/171704663
 ---
 

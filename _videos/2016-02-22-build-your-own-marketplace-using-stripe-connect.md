@@ -1,7 +1,7 @@
 ---
 title: 'Build your own Marketplace: Using Stripe Connect'
 date: 2016-02-22 12:00:00 +1100
-image: '/images/videos/2016-02-22-build-your-own-marketplace-using-stripe-connect.jpg'
+image: 'images/videos/2016-02-22-build-your-own-marketplace-using-stripe-connect.jpg'
 embedUrl: https://www.youtube.com/embed/QgUoqfi9tnY
 ---
 
